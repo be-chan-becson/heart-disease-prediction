@@ -1,2 +1,13 @@
-# heart-disease-prediction
-Machine learning project predicting used car prices using Python and Random Forest.
+# Heart Disease Prediction
+
+Machine learning model to predict heart disease using clinical data.
+
+Model: Logistic Regression  
+Accuracy: ~88%
+
+Workflow:
+- Data cleaning
+- Exploratory Data Analysis
+- Logistic Regression
+- Confusion Matrix
+- ROC Curve
