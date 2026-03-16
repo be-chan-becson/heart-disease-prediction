@@ -27,7 +27,7 @@ heart-disease-prediction
 
 ├── - notebooks
    - 01_eda.ipynb
-│
+     
 └── - README.md
 
 
