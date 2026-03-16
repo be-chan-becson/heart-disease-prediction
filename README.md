@@ -22,13 +22,13 @@ UCI Heart Disease Dataset
 
 heart-disease-prediction
 
-├── data
-│   └── heart_disease.csv
+├── - data
+  - heart_disease.csv
+
+├── - notebooks
+   - 01_eda.ipynb
 │
-├── notebooks
-│   └── 01_eda.ipynb
-│
-└── README.md
+└── - README.md
 
 
 
