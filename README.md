@@ -5,7 +5,11 @@ Machine learning project to predict heart disease using clinical data.
 ## Model
 Logistic Regression
 
-Accuracy: ~88%
+Accuracy: ~88.3%
+ROC-AUC: 0.947
+Precision: 0.84
+Recall: 0.88  
+F1-score: 0.86
 
 ## Workflow
 - Data Cleaning
@@ -26,7 +30,7 @@ heart-disease-prediction
   - heart_disease.csv
 
 ├── - notebooks
-   - 01_eda.ipynb
+   - heart_disease_eda.jpynb
      
 └── - README.md
 
